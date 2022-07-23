@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    height: 620px;
+    width: 100%;
+    background-image: linear-gradient(black, gray, black);
+    text-align: center;
+}
+
+i {
+    font-size: 40px;
+    color: white;
+}
+
+#star1 {
+    position: relative;
+    left: 630px;
+    top: 320px;
+}
+
+#star2 {
+    position: relative;
+    left: 550px;
+    top: 220px;
+}
+
+.moon {
+    height: 100px;
+    width: 100px;
+    /* border: 1px solid black; */
+    margin: 200px auto;
+    border-radius: 50%;
+    box-shadow: 0px 10px 10px 10px rgb(170, 162, 162);
+    background-color: whitesmoke;
+}
+
+.moon:hover {
+    background-color: lightblue;
+}
+
+#star3 {
+    position: relative;
+    left: 430px;
+    top: 130px;
+}
+
+#star4 {
+    position: relative;
+    right: 280px;
+    top: 300px;
+}
+
+#star5 {
+    position: relative;
+    right: 300px;
+    top: 200px;
+}
+
+#star6 {
+    position: relative;
+    right: 300px;
+    top: 120px;
+}
+
+#star7 {
+    position: relative;
+    left: 130px;
+    top: 60px;
+}
+
+#star8 {
+    position: relative;
+    right: 300px;
+    top: 50px;
+}
+
+#star9 {
+    position: relative;
+    right: 200px;
+    top: 20px;
+}
+
+#star10 {
+    position: relative;
+    right: 120px;
+    top: 10px;
+}
